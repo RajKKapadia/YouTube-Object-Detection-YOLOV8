@@ -3,3 +3,6 @@
 datasets/
 weights/
 data.yaml
+runs/
+output.png
+
