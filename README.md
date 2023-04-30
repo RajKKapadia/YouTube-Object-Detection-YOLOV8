@@ -3,6 +3,9 @@
 
 # Object Detection YOLOV8
 
+### Youtube
+You can watch a quick video tutorial to use this repository [here](https://youtu.be/10-UflDM_As).
+
 ### Dataset
 * https://public.roboflow.com/object-detection/aquarium
 
